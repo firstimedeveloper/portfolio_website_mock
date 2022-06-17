@@ -3,11 +3,17 @@ This is a repository containing a mock portolio website
 
 ## Description
 This project will create a simple mock portfolio website that uses/implements the following technologies:
-- [ ] React
-- [ ] Django
-- [ ] Database (postgresql)
+- [ ] Frontend
+  - Vue 
+  - React
+- [ ] Backend  
+  - Django
+  - Flask
+- [ ] Database
 - [ ] REST API
-- [ ] Docker
+
+Future changes:
+- [ ] Utilizing Docker containers
 
 ## How to run
 TODO
